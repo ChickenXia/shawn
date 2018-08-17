@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//WebRoot/contractAdd.jsp=UTF-8
+encoding//WebRoot/js/controller/login_controller.js=UTF-8
+encoding//WebRoot/login.jsp=UTF-8
+encoding//WebRoot/main.jsp=UTF-8
+encoding//WebRoot/materialManage.jsp=UTF-8
+encoding//WebRoot/projectProgressAdd.jsp=UTF-8
+encoding//WebRoot/projectProgressDetail.jsp=UTF-8
+encoding//WebRoot/register.jsp=UTF-8
+encoding//WebRoot/updatePassword.jsp=UTF-8
+encoding//src/com/web/controller/converter/CustomDateConverter.java=UTF-8
+encoding//src/com/web/service/impl/UserServiceImpl.java=UTF-8
+encoding//src/log4j.properties=UTF-8
+encoding/<project>=UTF-8
